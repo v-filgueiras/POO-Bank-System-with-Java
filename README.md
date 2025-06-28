@@ -1,4 +1,4 @@
-### 🏦 Sistema Bancário Simples em Java
+# 🏦 Sistema Bancário Simples em Java
 
 Este projeto é um sistema bancário simples desenvolvido em Java, utilizando conceitos fundamentais de Programação Orientada a Objetos (POO), como encapsulamento, associação entre classes e validação de dados.
 
@@ -49,6 +49,6 @@ Este projeto é um sistema bancário simples desenvolvido em Java, utilizando co
 ## 📂 Estrutura do projeto
 
 /SistemaBancarioSimples
-├── Cliente.java          // Classe que representa o cliente
-├── ContaBancaria.java    // Classe que representa a conta bancária
-└── TesteBanco.java       // Classe com o método main para testar o sistema
+├── Cliente.java      
+├── ContaBancaria.java    
+└── TesteBanco.java
