@@ -49,6 +49,7 @@ Este projeto é um sistema bancário simples desenvolvido em Java, utilizando co
 ## 📂 Estrutura do projeto
 
 /SistemaBancarioSimples
-├── Cliente.java      
-├── ContaBancaria.java    
+
+├── Cliente.java
+├── ContaBancaria.java
 └── TesteBanco.java
