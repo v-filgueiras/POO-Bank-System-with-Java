@@ -3,7 +3,7 @@ package SistemaBancarioSimples;
 public class TesteBanco {
     public static void main(String[] args) {
         // Criando clientes
-        Cliente cliente1 = new Cliente("Victor Santana", "123.456.789-00", "Rua das Palmeiras, 100");
+        Cliente cliente1 = new Cliente("Victor", "123.456.789-00", "Rua das Palmeiras, 100");
         Cliente cliente2 = new Cliente("Ana Souza", "987.654.321-00", "Avenida Brasil, 200");
 
         // Criando contas bancárias
